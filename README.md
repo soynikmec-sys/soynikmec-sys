@@ -6,7 +6,7 @@
 
 ## ☕ About me
 
-Hello! 👋 I'm **Nicolas Escobar**, a **Full stack** developer with experience in the field. I've worked as a **freelancer** and collaborated with amazing people in the same industry. My passion for programming **started at the age of 17** when I wrote my first lines of code and began learning on my own.
+Hello! 👋 I'm **Nicolas Ebar**, a **Full stack** developer with experience in the field. I've worked as a **freelancer** and collaborated with amazing people in the same industry. My passion for programming **started at the age of 17** when I wrote my first lines of code and began learning on my own.
 
 Besides being a developer, I'm passionate about music, especially playing the **guitar** in my free time. I always stay up-to-date with **cutting-edge technologies** to keep up with the latest trends.
 
@@ -32,7 +32,7 @@ Besides being a developer, I'm passionate about music, especially playing the **
 </td>
 <td valign="middle" align="center">
 
-<a href="https://nicolas-escobar.vercel.app" target="_blank">
+<a href="https://nicolas-ebar.vercel.app" target="_blank">
 <img width="1358" height="690" alt="image" src="https://github.com/user-attachments/assets/742636a8-44f9-40d1-8ae3-1dfdff07dfa0" />
 
 </a>
