@@ -33,7 +33,7 @@ Besides being a developer, I'm passionate about music, especially playing the **
 <td valign="middle" align="center">
 
 <a href="https://nicolas-ebar.vercel.app" target="_blank">
-<img width="1358" height="690" alt="image" src="https://github.com/user-attachments/assets/742636a8-44f9-40d1-8ae3-1dfdff07dfa0" />
+<img width="1358" height="690" alt="image" src="https://github.com/user-attachments/assets/b27b722b-38c6-4a1d-9dd1-acb5a9b71c00" />
 
 </a>
 
