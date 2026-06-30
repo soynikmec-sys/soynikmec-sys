@@ -6,7 +6,7 @@
 
 ## ☕ About me
 
-Hello! 👋 I'm **Nicolas Ebar**, a **Full stack** developer with experience in the field. I've worked as a **freelancer** and collaborated with amazing people in the same industry. My passion for programming **started at the age of 17** when I wrote my first lines of code and began learning on my own.
+Hello! 👋 I'm **Nicolas Mattheos**, a **Full stack** developer with experience in the field. I've worked as a **freelancer** and collaborated with amazing people in the same industry. My passion for programming **started at the age of 17** when I wrote my first lines of code and began learning on my own.
 
 Besides being a developer, I'm passionate about music, especially playing the **guitar** in my free time. I always stay up-to-date with **cutting-edge technologies** to keep up with the latest trends.
 
